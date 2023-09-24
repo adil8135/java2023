@@ -1,8 +1,8 @@
-package array;
+package array.program;
 
 public class largest {
 
-    public static int larges(int list[]){
+    public static int larges(int list[]){ 
         int lno = Integer.MIN_VALUE;
         for (int i = 0; i < list.length; i++) {
             if (list[i] > lno) {

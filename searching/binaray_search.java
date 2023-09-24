@@ -1,6 +1,6 @@
 package searching;
 
-import array.largest;
+import array.program.largest;
 
 public class binaray_search {
 public static int binary( int list[] , int key){
